@@ -10,8 +10,8 @@ This plugin allows for android devices to continue running services in the backg
 
 ## Requirements
 
-- cordova version >= 8.0.0
-- cordova-android version >= 7.0.0
+- cordova version >= 7.0.0
+- cordova-android version >= 5.0.0
 - android-sdk api >= 26
 
 ---
